@@ -1,0 +1,5 @@
+body { font-family: 'Poppins', sans-serif; background: #f4f7f6; }
+#login-page { height: 100vh; display: flex; align-items: center; justify-content: center; background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1000&q=80'); background-size: cover; }
+.login-card { background: rgba(255,255,255,0.95); width: 100%; max-width: 380px; border-radius: 25px; backdrop-filter: blur(10px); }
+.view-section { min-height: 100vh; }
+.dashed { border-top: 2px dashed #bbb; }
